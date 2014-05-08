@@ -8,7 +8,6 @@
 #include "os/event.h"
 #include "os/rstream_defs.h"
 #include "os/rstream.h"
-#include "vim.h"
 #include "ui.h"
 #include "fileio.h"
 #include "getchar.h"

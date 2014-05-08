@@ -1,7 +1,6 @@
 #ifndef NEOVIM_MAIN_H
 #define NEOVIM_MAIN_H
 
-#include "normal.h"
 
 void main_loop(int cmdwin, int noexmode);
 void getout(int exitval);

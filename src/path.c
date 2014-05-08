@@ -9,8 +9,6 @@
 #include "fileio.h"
 #include "file_search.h"
 #include "garray.h"
-#include "memfile.h"
-#include "memline.h"
 #include "memory.h"
 #include "message.h"
 #include "misc1.h"
@@ -19,13 +17,9 @@
 #include "os/os.h"
 #include "os/shell.h"
 #include "os_unix.h"
-#include "quickfix.h"
 #include "regexp.h"
-#include "screen.h"
-#include "tag.h"
 #include "types.h"
 #include "ui.h"
-#include "window.h"
 
 #define URL_SLASH       1               /* path_is_url() has found "://" */
 #define URL_BACKSLASH   2               /* path_is_url() has found ":\\" */

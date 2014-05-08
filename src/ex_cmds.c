@@ -44,7 +44,6 @@
 #include "normal.h"
 #include "ops.h"
 #include "option.h"
-#include "os_unix.h"
 #include "path.h"
 #include "quickfix.h"
 #include "regexp.h"

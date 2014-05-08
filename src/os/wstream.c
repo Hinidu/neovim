@@ -5,7 +5,6 @@
 
 #include "os/wstream.h"
 #include "os/wstream_defs.h"
-#include "vim.h"
 #include "memory.h"
 
 struct wstream {

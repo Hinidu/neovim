@@ -36,7 +36,6 @@
 #include "crypt.h"
 #include "garray.h"
 #include "move.h"
-#include "normal.h"
 #include "option.h"
 #include "os_unix.h"
 #include "path.h"

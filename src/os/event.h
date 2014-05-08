@@ -5,7 +5,6 @@
 #include <stdbool.h>
 
 #include "os/event_defs.h"
-#include "os/job_defs.h"
 
 void event_init(void);
 bool event_poll(int32_t ms);

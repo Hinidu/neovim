@@ -4,12 +4,10 @@
 
 #include <string.h>
 #include <wctype.h>
-#include <wchar.h>  // for towupper() and towlower()
 
 #include "vim.h"
 #include "charset.h"
 #include "farsi.h"
-#include "main.h"
 #include "mbyte.h"
 #include "memline.h"
 #include "memory.h"

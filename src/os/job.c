@@ -13,9 +13,7 @@
 #include "os/event_defs.h"
 #include "os/time.h"
 #include "os/shell.h"
-#include "vim.h"
 #include "memory.h"
-#include "term.h"
 
 #define EXIT_TIMEOUT 25
 #define MAX_RUNNING_JOBS 100

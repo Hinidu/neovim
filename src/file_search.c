@@ -49,16 +49,12 @@
 #include "vim.h"
 #include "file_search.h"
 #include "charset.h"
-#include "fileio.h"
 #include "memory.h"
 #include "message.h"
 #include "misc1.h"
 #include "misc2.h"
-#include "os_unix.h"
 #include "path.h"
-#include "tag.h"
 #include "ui.h"
-#include "window.h"
 #include "os/os.h"
 
 static char_u   *ff_expand_buffer = NULL; /* used for expanding filenames */

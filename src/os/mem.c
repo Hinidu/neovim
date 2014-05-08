@@ -2,7 +2,6 @@
 
 #include <uv.h>
 
-#include "os/os.h"
 
 uint64_t os_get_total_mem_kib(void) {
   // Convert bytes to KiB.

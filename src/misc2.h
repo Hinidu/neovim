@@ -1,7 +1,6 @@
 #ifndef NEOVIM_MISC2_H
 #define NEOVIM_MISC2_H
 
-#include "func_attr.h"
 #include "os/shell.h"
 
 /* misc2.c */

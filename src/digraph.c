@@ -11,7 +11,6 @@
 #include "getchar.h"
 #include "mbyte.h"
 #include "message.h"
-#include "misc2.h"
 #include "memory.h"
 #include "garray.h"
 #include "normal.h"

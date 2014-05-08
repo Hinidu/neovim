@@ -7,7 +7,6 @@
 #include "charset.h"
 #include "ex_cmds.h"
 #include "memline.h"
-#include "misc2.h"
 #include "move.h"
 #include "option.h"
 #include "screen.h"

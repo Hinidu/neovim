@@ -308,7 +308,6 @@
 #include "garray.h"
 #include "normal.h"
 #include "option.h"
-#include "os_unix.h"
 #include "path.h"
 #include "regexp.h"
 #include "screen.h"
@@ -931,7 +930,6 @@ static void close_spellbuf(buf_T *buf);
 // Use our own character-case definitions, because the current locale may
 // differ from what the .spl file uses.
 // These must not be called with negative number!
-#include <wchar.h>        // for towupper() and towlower()
 // Multi-byte implementation.  For Unicode we can call utf_*(), but don't do
 // that for ASCII, because we don't want to use 'casemap' here.  Otherwise use
 // the "w" library function for characters above 255.

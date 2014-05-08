@@ -12,7 +12,6 @@
 #include "ascii.h"
 #include "memory.h"
 #include "term.h"
-#include "misc2.h"
 #include "screen.h"
 #include "memline.h"
 #include "option_defs.h"

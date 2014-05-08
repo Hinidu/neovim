@@ -35,7 +35,6 @@
 #include "move.h"
 #include "normal.h"
 #include "option.h"
-#include "os_unix.h"
 #include "path.h"
 #include "regexp.h"
 #include "screen.h"

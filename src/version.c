@@ -15,7 +15,6 @@
 #include "charset.h"
 #include "memline.h"
 #include "message.h"
-#include "misc2.h"
 #include "screen.h"
 
 #include "version_defs.h"

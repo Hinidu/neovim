@@ -6,7 +6,6 @@
 
 #include "vim.h"
 #include "ascii.h"
-#include "misc2.h"
 #include "memory.h"
 #include "path.h"
 #include "garray.h"

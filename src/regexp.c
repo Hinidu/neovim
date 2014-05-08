@@ -55,7 +55,6 @@
 #include "memory.h"
 #include "message.h"
 #include "misc1.h"
-#include "misc2.h"
 #include "garray.h"
 
 #ifdef REGEXP_DEBUG

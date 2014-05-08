@@ -5,7 +5,6 @@
 #include <uv.h>
 
 #include "os/time.h"
-#include "vim.h"
 #include "term.h"
 
 static uv_mutex_t delay_mutex;

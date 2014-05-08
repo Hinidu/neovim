@@ -1,7 +1,5 @@
 #include "vim.h"
 #include "cursor_shape.h"
-#include "misc2.h"
-#include "ex_getln.h"
 #include "charset.h"
 #include "syntax.h"
 

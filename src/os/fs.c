@@ -3,8 +3,6 @@
 #include "os/os.h"
 #include "memory.h"
 #include "message.h"
-#include "misc1.h"
-#include "misc2.h"
 #include "path.h"
 
 static bool is_executable(const char_u *name);

@@ -102,7 +102,6 @@
 #include "fileio.h"
 #include "fold.h"
 #include "getchar.h"
-#include "main.h"
 #include "mbyte.h"
 #include "memline.h"
 #include "memory.h"

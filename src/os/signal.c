@@ -2,15 +2,12 @@
 
 #include <uv.h>
 
-#include "types.h"
 #include "vim.h"
 #include "globals.h"
 #include "memline.h"
 #include "eval.h"
 #include "term.h"
-#include "memory.h"
 #include "misc1.h"
-#include "misc2.h"
 #include "os/event_defs.h"
 #include "os/event.h"
 #include "os/signal.h"

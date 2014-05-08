@@ -8,7 +8,6 @@
 #include "os/rstream.h"
 #include "os/event_defs.h"
 #include "os/event.h"
-#include "vim.h"
 #include "memory.h"
 
 struct rstream {

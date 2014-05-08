@@ -13,7 +13,6 @@
 #include <string.h>
 
 #include "vim.h"
-#include "version_defs.h"
 #include "ex_cmds2.h"
 #include "buffer.h"
 #include "charset.h"
@@ -34,7 +33,6 @@
 #include "move.h"
 #include "normal.h"
 #include "option.h"
-#include "os_unix.h"
 #include "path.h"
 #include "quickfix.h"
 #include "regexp.h"

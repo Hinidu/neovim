@@ -24,7 +24,6 @@
 #include "hashtab.h"
 #include "message.h"
 #include "memory.h"
-#include "misc2.h"
 
 // Magic value for algorithm that walks through the array.
 #define PERTURB_SHIFT 5

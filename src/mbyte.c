@@ -77,7 +77,6 @@
  */
 
 #include <string.h>
-# include <wchar.h>
 
 #include "vim.h"
 #include "mbyte.h"
@@ -86,7 +85,6 @@
 #include "memline.h"
 #include "message.h"
 #include "misc1.h"
-#include "misc2.h"
 #include "memory.h"
 #include "option.h"
 #include "screen.h"

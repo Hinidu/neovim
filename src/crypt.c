@@ -12,7 +12,6 @@
 // and sha256 by Christophe Devine.
 
 #include "vim.h"
-#include "misc2.h"
 #include "blowfish.h"
 #include "ex_getln.h"
 #include "message.h"

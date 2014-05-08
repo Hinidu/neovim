@@ -59,7 +59,6 @@
 #include "misc2.h"
 #include "crypt.h"
 #include "option.h"
-#include "os_unix.h"
 #include "path.h"
 #include "screen.h"
 #include "sha256.h"
@@ -67,7 +66,6 @@
 #include "term.h"
 #include "ui.h"
 #include "undo.h"
-#include "window.h"
 #include "os/os.h"
 
 #ifndef UNIX            /* it's in os_unix_defs.h for Unix */

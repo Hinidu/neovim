@@ -1,5 +1,4 @@
 #include "vim.h"
-#include "misc1.h"
 #include "charset.h"
 #include "edit.h"
 #include "indent.h"

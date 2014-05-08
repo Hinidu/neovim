@@ -21,7 +21,6 @@
 #include "ex_cmds.h"
 #include "fileio.h"
 #include "fold.h"
-#include "mbyte.h"
 #include "memline.h"
 #include "memory.h"
 #include "message.h"

@@ -23,22 +23,18 @@
 #include "fold.h"
 #include "hashtab.h"
 #include "indent_c.h"
-#include "mbyte.h"
 #include "memline.h"
 #include "memory.h"
 #include "message.h"
 #include "misc1.h"
-#include "misc2.h"
 #include "keymap.h"
 #include "garray.h"
 #include "option.h"
-#include "os_unix.h"
 #include "path.h"
 #include "regexp.h"
 #include "screen.h"
 #include "term.h"
 #include "ui.h"
-#include "os/os.h"
 
 /*
  * Structure that stores information about a highlight group.

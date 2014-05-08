@@ -1,6 +1,9 @@
 #ifndef NEOVIM_UI_H
 #define NEOVIM_UI_H
-/* ui.c */
+
+#include "types.h"
+#include "window.h"
+
 void ui_write(char_u *s, int len);
 int ui_inchar(char_u *buf, int maxlen, long wtime, int tb_change_cnt);
 int ui_char_avail(void);

@@ -3,7 +3,6 @@
 #include <uv.h>
 
 #include "os/os.h"
-#include "misc2.h"
 
 #ifdef HAVE__NSGETENVIRON
 #include <crt_externs.h>

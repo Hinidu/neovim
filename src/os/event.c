@@ -10,9 +10,6 @@
 #include "os/signal.h"
 #include "os/rstream.h"
 #include "os/job.h"
-#include "vim.h"
-#include "memory.h"
-#include "misc2.h"
 
 // event will be cleaned up after it gets processed
 #define _destroy_event(x)  // do nothing

@@ -17,7 +17,6 @@
 #include "ex_cmds2.h"
 #include "ex_docmd.h"
 #include "message.h"
-#include "misc2.h"
 #include "memory.h"
 #include "regexp.h"
 

@@ -32,7 +32,6 @@
 #include "if_cscope.h"
 #include "main.h"
 #include "mark.h"
-#include "mbyte.h"
 #include "memline.h"
 #include "memory.h"
 #include "menu.h"
