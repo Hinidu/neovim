@@ -3,6 +3,8 @@
 
 #include <stdbool.h>
 
+#include "nvim/lib/khash.h"
+#include "nvim/types.h"
 #include "nvim/map_defs.h"
 
 #define MAP_DECLS(T, U)                                                       \

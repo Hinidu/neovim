@@ -33,4 +33,8 @@ typedef uint16_t u8char_T;
 typedef uint32_t u8char_T;
 #endif
 
+// Intended to be used as macros parameters for Map and Set data structures.
+typedef const char * cstr_t;
+typedef void * ptr_t;
+
 #endif /* NVIM_TYPES_H */
